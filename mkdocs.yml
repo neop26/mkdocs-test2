@@ -27,9 +27,6 @@ theme:
       primary: teal
       accent: lime
 
-plugins:
-  - social
-
 extra:
   social:
     - icon: fontawesome/brands/github-alt
@@ -52,9 +49,6 @@ markdown_extensions:
   - pymdownx.superfences
   - pymdownx.mark
   - attr_list
-  - pymdownx.emoji:
-      emoji_index: !!python/name:materialx.emoji.twemoji
-      emoji_generator: !!python/name:materialx.emoji.to_svg
 
 copyright: |
   &copy; 2023 <a href="https://github.com/james-willett"  target="_blank" rel="noopener">James Willett</a>
