@@ -30,11 +30,11 @@ theme:
 extra:
   social:
     - icon: fontawesome/brands/github-alt
-      link: https://github.com/james-willett
+      link: https://github.com/neop26
     - icon: fontawesome/brands/twitter
-      link: https://twitter.com/TheJamesWillett
+      link: https://twitter.com/neop26
     - icon: fontawesome/brands/linkedin
-      link: https://www.linkedin.com/in/willettjames/
+      link: https://www.linkedin.com/in/aben.samuel/
 
 markdown_extensions:
   - pymdownx.highlight:
@@ -51,4 +51,4 @@ markdown_extensions:
   - attr_list
 
 copyright: |
-  &copy; 2023 <a href="https://github.com/james-willett"  target="_blank" rel="noopener">James Willett</a>
+  &copy; 2023 <a href="https://github.com/neop26"  target="_blank" rel="noopener">Aben Samuel</a>
