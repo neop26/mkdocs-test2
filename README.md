@@ -11,7 +11,7 @@ This repo can be copied to create a working Github Repo of MKDocs with tthe Mate
    ![Github Import](./.assets/image.png)
 2. Make sure the repo is public and not private if you are using a github free account.
 3. Once imported, go to Settings > Actions > as shown below and click save
-   ![Allow All Actions](./.assets/image-1.png)
+   ![Allow Actions](./.assets/allowactions.png)
 4. At this stage , clone the repo to your local machine.
 5. Make changes and commit and push the changes back to the repo.
 6. Workflow should now been seen as starting
