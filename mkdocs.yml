@@ -34,7 +34,7 @@ extra:
     - icon: fontawesome/brands/twitter
       link: https://twitter.com/neop26
     - icon: fontawesome/brands/linkedin
-      link: https://www.linkedin.com/in/aben.samuel/
+      link: https://www.linkedin.com/in/abensamuel/
 
 markdown_extensions:
   - pymdownx.highlight:
